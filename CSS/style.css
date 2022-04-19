@@ -19,6 +19,10 @@ body {
   background-color: #C2EDCE;
 }
 
+.servicos {
+  background-color: #BADFE7;
+}
+
 .servicos img{
   border-radius: 2%;
 }
